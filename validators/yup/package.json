@@ -1,0 +1,15 @@
+{
+  "name": "yup-bench",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Ivan Tymoshenko <ivan@tymoshenko.me>",
+  "license": "ISC",
+  "dependencies": {
+    "yup": "^1.0.2"
+  }
+}

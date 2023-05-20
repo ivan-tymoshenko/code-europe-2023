@@ -1,0 +1,204 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "pages": 281,
+      "author": {
+        "id": 1,
+        "firstName": "Harper",
+        "lastName": "Lee"
+      }
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "pages": 328,
+      "author": {
+        "id": 2,
+        "firstName": "George",
+        "lastName": "Orwell"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Animal Farm",
+      "pages": 141,
+      "author": {
+        "id": 2,
+        "firstName": "George",
+        "lastName": "Orwell"
+      }
+    },
+    {
+      "id": 4,
+      "title": "The Catcher in the Rye",
+      "pages": 277,
+      "author": {
+        "id": 3,
+        "firstName": "J.D.",
+        "lastName": "Salinger"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Pride and Prejudice",
+      "pages": 279,
+      "author": {
+        "id": 4,
+        "firstName": "Jane",
+        "lastName": "Austen"
+      }
+    },
+    {
+      "id": 6,
+      "title": "The Great Gatsby",
+      "pages": 180,
+      "author": {
+        "id": 5,
+        "firstName": "F. Scott",
+        "lastName": "Fitzgerald"
+      }
+    },
+    {
+      "id": 7,
+      "title": "One Hundred Years of Solitude",
+      "pages": 417,
+      "author": {
+        "id": 6,
+        "firstName": "Gabriel",
+        "lastName": "García Márquez"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Crime and Punishment",
+      "pages": 671,
+      "author": {
+        "id": 7,
+        "firstName": "Fyodor",
+        "lastName": "Dostoevsky"
+      }
+    },
+    {
+      "id": 9,
+      "title": "War and Peace",
+      "pages": 1225,
+      "author": {
+        "id": 8,
+        "firstName": "Leo",
+        "lastName": "Tolstoy"
+      }
+    },
+    {
+      "id": 10,
+      "title": "The Brothers Karamazov",
+      "pages": 824,
+      "author": {
+        "id": 7,
+        "firstName": "Fyodor",
+        "lastName": "Dostoevsky"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Moby-Dick",
+      "pages": 634,
+      "author": {
+        "id": 9,
+        "firstName": "Herman",
+        "lastName": "Melville"
+      }
+    },
+    {
+      "id": 12,
+      "title": "The Adventures of Huckleberry Finn",
+      "pages": 366,
+      "author": {
+        "id": 10,
+        "firstName": "Mark",
+        "lastName": "Twain"
+      }
+    },
+    {
+      "id": 13,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "pages": 193,
+      "author": {
+        "id": 11,
+        "firstName": "Douglas",
+        "lastName": "Adams"
+      }
+    },
+    {
+      "id": 14,
+      "title": "The Picture of Dorian Gray",
+      "pages": 254,
+      "author": {
+        "id": 12,
+        "firstName": "Oscar",
+        "lastName": "Wilde"
+      }
+    },
+    {
+      "id": 15,
+      "title": "Frankenstein",
+      "pages": 280,
+      "author": {
+        "id": 13,
+        "firstName": "Mary",
+        "lastName": "Shelley"
+      }
+    },
+    {
+      "id": 16,
+      "title": "The Adventures of Huckleberry Finn",
+      "pages": 366,
+      "author": {
+        "id": 10,
+        "firstName": "Mark",
+        "lastName": "Twain"
+      }
+    },
+    {
+      "id": 17,
+      "title": "One Hundred Years of Solitude",
+      "pages": 417,
+      "author": {
+        "id": 6,
+        "firstName": "Gabriel",
+        "lastName": "García Márquez"
+      }
+    },
+    {
+      "id": 18,
+      "title": "The Bell Jar",
+      "pages": 288,
+      "author": {
+        "id": 16,
+        "firstName": "Sylvia",
+        "lastName": "Plath"
+      }
+    },
+    {
+      "id": 19,
+      "title": "The Road",
+      "pages": 241,
+      "author": {
+        "id": 17,
+        "firstName": "Cormac",
+        "lastName": "McCarthy"
+      }
+    },
+    {
+      "id": 20,
+      "title": "The Hobbit",
+      "pages": 320,
+      "author": {
+        "id": 18,
+        "firstName": "J.R.R.",
+        "lastName": "Tolkien"
+      }
+    }
+  ]
+}

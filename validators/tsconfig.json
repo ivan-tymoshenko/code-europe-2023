@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/node18/tsconfig.json",
+  "compilerOptions": {
+    "strictPropertyInitialization": false,
+    "experimentalDecorators": true,
+    "module": "ES6"
+  },
+  "include": ["."],
+  "exclude": ["node_modules"]
+}
